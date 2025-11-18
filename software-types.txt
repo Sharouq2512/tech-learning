@@ -3,3 +3,6 @@ Software is commonly divided into three main types: system software, application
 
 
 Web applications are software programs that run on a web server and are accessed through a web browser using the internet. Unlike traditional desktop applications, they don’t need to be installed on a device—users simply open them through a URL.
+
+
+Mobile applications are software programs designed to run on mobile devices such as smartphones and tablets. They are built specifically for mobile operating systems like Android or iOS and are installed through app stores. Mobile apps provide easy access to services, tools, and features, often using device capabilities such as the camera, GPS, notifications, and touch gestures.
