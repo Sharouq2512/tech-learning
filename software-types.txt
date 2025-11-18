@@ -1,1 +1,5 @@
 Software is commonly divided into three main types: system software, application software, and programming software. System software manages and operates the computer’s hardware, while application software helps users perform specific tasks such as writing, browsing, or designing. Programming software provides the tools developers need to create, test, and maintain other software systems.
+
+
+
+Web applications are software programs that run on a web server and are accessed through a web browser using the internet. Unlike traditional desktop applications, they don’t need to be installed on a device—users simply open them through a URL.
