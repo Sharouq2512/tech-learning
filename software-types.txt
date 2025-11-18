@@ -6,3 +6,5 @@ Web applications are software programs that run on a web server and are accessed
 
 
 Mobile applications are software programs designed to run on mobile devices such as smartphones and tablets. They are built specifically for mobile operating systems like Android or iOS and are installed through app stores. Mobile apps provide easy access to services, tools, and features, often using device capabilities such as the camera, GPS, notifications, and touch gestures.
+
+Desktop applications are software programs installed and run directly on a computer or laptop, using operating systems like Windows, macOS, or Linux. They typically offer powerful performance, advanced features, and a stable environment because they don’t rely on an internet connection to function.
