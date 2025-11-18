@@ -13,4 +13,4 @@ Java and Ruby are powerful programming languages commonly used for backend devel
 
 Java is a high-performance, strongly typed language known for its speed, reliability, and ability to handle large, complex systems. It is widely used in enterprise applications, banking systems, Android development, and high-traffic backends. Java’s “write once, run anywhere” philosophy and strong frameworks like Spring make it ideal for scalable and secure applications.
 
-Ruby is a clean, readable, and developer-friendly language known for its simplicity and productivity. It is best known for the Ruby on Rails framework, which allows developers to build web applications quickly with less code. Ruby focuses on convention over configuration, making development faster and more intuitive.
+Ruby is a clean, readable, and developer-friendly language known for its simplicity and productivity. It is best known for the Ruby on Rails framework, which allows developers to build web applications quickly with less code. Ruby focuses on convention over configuration, making development faster and more intuitive
