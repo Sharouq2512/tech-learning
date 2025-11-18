@@ -1,0 +1,7 @@
+MySQL, MongoDB, and PostgreSQL are three widely used database systems, each serving different types of applications and data needs.
+
+MySQL is a relational database that stores data in tables with rows and columns. It uses SQL for managing data and is known for its speed, reliability, and suitability for websites, e-commerce systems, and applications that require structured data.
+
+MongoDB is a NoSQL database that stores data in flexible JSON-like documents instead of tables. It is ideal for applications that deal with unstructured or rapidly changing data, offering high scalability and easy integration with modern web apps.
+
+PostgreSQL is a powerful relational database known for its advanced features, strong data integrity, and support for complex queries. It is often used for enterprise systems and applications requiring high accuracy and reliability.
