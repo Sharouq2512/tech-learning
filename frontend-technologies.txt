@@ -1,0 +1,9 @@
+**HTML, CSS, and JavaScript** are the three core technologies used to build the frontend of websites and web applications.
+
+**HTML (HyperText Markup Language)** is the structure of a webpage. It defines the content—such as text, images, buttons, and forms—and organizes everything in a logical layout.
+
+**CSS (Cascading Style Sheets)** controls the design and appearance of the webpage. It adds colors, fonts, spacing, layouts, animations, and makes the website responsive on different screen sizes.
+
+**JavaScript (JS)** brings the website to life by adding interactivity and dynamic behavior. It handles actions like clicking buttons, opening menus, validating forms, animations, and communicating with the backend through APIs.
+
+Together, **HTML builds**, **CSS styles**, and **JavaScript powers** the interactive experience users see on the web.
