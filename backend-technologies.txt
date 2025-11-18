@@ -1,0 +1,9 @@
+Node.js, Python, and PHP are popular backend technologies used to build the server side of web applications.
+
+Node.js is a JavaScript runtime that allows developers to run JavaScript on the server. It is known for its speed, real-time capabilities, and ability to handle many connections at once, making it great for chat apps, APIs, and streaming platforms.
+
+Python is a powerful and easy-to-read programming language widely used in web development, data science, automation, and AI. With frameworks like Django and Flask, Python helps developers build secure, scalable, and clean backend systems quickly.
+
+PHP is a server-side scripting language designed specifically for web development. It powers many websites and platforms and integrates smoothly with databases. Frameworks like Laravel make PHP development fast, secure, and efficient.
+
+Together, these technologies allow developers to build strong, dynamic, and functional backends for modern web applications.
