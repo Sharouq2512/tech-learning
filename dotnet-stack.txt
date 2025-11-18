@@ -1,0 +1,9 @@
+Frontend, backend, and database (DB) are the three main parts of most web applications, each playing a different role.
+
+Frontend is the part of the application that users see and interact with directly. It includes the layout, design, buttons, text, images, and overall user experience built using technologies like HTML, CSS, and JavaScript.
+
+Backend is the server-side part that users don’t see. It handles logic, processes requests, manages authentication, and connects the frontend with the database. It uses languages like Node.js, Python, PHP, and others.
+
+Database (DB) is where the application stores its data, such as user accounts, products, messages, or any important information. It ensures data is organized, secure, and easy to retrieve using systems like MySQL, MongoDB, or PostgreSQL.
+
+Together, the frontend displays, the backend processes, and the database stores the data—creating a complete working application.
