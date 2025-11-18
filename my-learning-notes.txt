@@ -1,0 +1,15 @@
+Setup Commands
+
+git init — Creates a new Git repository in your project folder.
+
+git clone <URL> — Copies a remote repository to your local machine.
+
+2. Tracking Changes
+
+git status — Shows the current state of your files (modified, untracked, staged).
+
+git add <file> — Adds a file to the staging area.
+
+git add . — Adds all changed files to the staging area.
+
+git commit -m "message" — Saves the staged changes with a message.
